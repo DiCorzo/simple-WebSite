@@ -1,0 +1,19 @@
+        body {
+            background-color: black;
+            color: yellow;
+        }
+        
+        img {
+            background-color: yellow;
+            border-radius: 50%;
+        }
+        
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        li {
+            display: inline;
+        }
